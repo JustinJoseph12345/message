@@ -1,0 +1,14 @@
+{
+  "name": "message",
+  "version": "1.1",
+  "description": "Help web developers",
+  "homepage": "https://github.com/JustinJoseph12345/message",
+  "author": "Justin Joseph <justindiceyyo19@gmail.com>",
+  "license": "MIT",
+  "main": "dist/message.js",
+  "module": "dist/message.js",
+  "browser": "dist/message.brow.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/justinjoseph/message.git"
+  },
